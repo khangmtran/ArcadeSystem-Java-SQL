@@ -6,10 +6,10 @@ Khang Tran, Yen Lai, Alex Ponce Ayala
 A team project that developed an arcade system designed to streamline operations and provide a user-friendly experience for both customers and employees.
 
 ## Features
-Menu-driven Interface: Users can add, update, and delete memberships, games, and prizes.
-Gameplay: Playing games requires tokens, and each game session is recorded in the database.
-Leaderboards: High scores are displayed on game consoles, allowing players to compete and improve their scores.
-Rewards: Players earn reward tickets from games, redeemable at the prize counter.
+Menu-driven Interface: Users can add, update, and delete memberships, games, and prizes.  
+Gameplay: Playing games requires tokens, and each game session is recorded in the database.  
+Leaderboards: High scores are displayed on game consoles, allowing players to compete and improve their scores.  
+Rewards: Players earn reward tickets from games, redeemable at the prize counter.  
 Database Management: All information, including memberships, game sessions, transactions, and rewards, 
 is meticulously stored and managed in the database.
 
