@@ -1,4 +1,4 @@
-# JavaAndSQL  
+# Arcade System-JavaAndSQL  
 ## Authors
 Khang Tran, Yen Lai, Alex Ponce Ayala
 
